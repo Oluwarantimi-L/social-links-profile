@@ -43,7 +43,7 @@ body {
   background: hsl(0, 0%, 20%);
   border-radius: 0.3rem;
   text-align: center;
-  transition: background 0.3s ease, color 0.3s ease;
+  transition: background 0.3s ease color 0.3s ease;
 }
 img {
   display: block;
